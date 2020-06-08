@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="3239" started-at="2020-04-28T20:47:06Z" finished-at="2020-04-28T20:47:09Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="3239" started-at="2020-04-28T20:47:06Z" finished-at="2020-04-28T20:47:09Z">
+      <class name="com.udemy.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.udemy.testcases.LoginTest@196543c]" name="loginTest" duration-ms="2845" started-at="2020-04-29T02:17:06Z" finished-at="2020-04-29T02:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.udemy.testcases.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Page Object Model -->
+</testng-results>
